@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B1F40792481B583000EA1E7 /* shiba.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8B1F40782481B583000EA1E7 /* shiba.usdz */; };
 		8B865D2D248189B80089FB2F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B865D2C248189B80089FB2F /* AppDelegate.swift */; };
 		8B865D2F248189B80089FB2F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B865D2E248189B80089FB2F /* ViewController.swift */; };
 		8B865D31248189B80089FB2F /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 8B865D30248189B80089FB2F /* Experience.rcproject */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8B1F40782481B583000EA1E7 /* shiba.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = shiba.usdz; path = "../../3D-Models/shiba.usdz"; sourceTree = "<group>"; };
 		8B865D29248189B80089FB2F /* FirstARApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstARApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B865D2C248189B80089FB2F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8B865D2E248189B80089FB2F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 			children = (
 				8B865D2C248189B80089FB2F /* AppDelegate.swift */,
 				8B865D2E248189B80089FB2F /* ViewController.swift */,
+				8B1F40782481B583000EA1E7 /* shiba.usdz */,
 				8B865D30248189B80089FB2F /* Experience.rcproject */,
 				8B865D32248189B80089FB2F /* Main.storyboard */,
 				8B865D35248189B90089FB2F /* Assets.xcassets */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B865D39248189B90089FB2F /* LaunchScreen.storyboard in Resources */,
+				8B1F40792481B583000EA1E7 /* shiba.usdz in Resources */,
 				8B865D36248189B90089FB2F /* Assets.xcassets in Resources */,
 				8B865D34248189B80089FB2F /* Main.storyboard in Resources */,
 			);
@@ -435,6 +439,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S74TSR4R98;
 				INFOPLIST_FILE = FirstARApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -452,6 +457,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S74TSR4R98;
 				INFOPLIST_FILE = FirstARApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
