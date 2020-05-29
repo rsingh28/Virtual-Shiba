@@ -1,7 +1,7 @@
 **Requirements**
 
 1. ios 13.5+
-2. macOS Cataline 10.15.5+
+2. macOS Catalina 10.15.5+
 3. Xcode 11.5+
 
 **Follow these steps to spawn your** 🐕 
