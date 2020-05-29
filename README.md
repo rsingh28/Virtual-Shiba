@@ -11,3 +11,7 @@
 3. Connect an iOS device to your computer and use it as your test device. 
 4. Build the project on Xcode and it should launch on your iOS device.
 5. Find a horizontal plane and tap on it. Your shiba will appear!
+
+**Result**
+
+![Shiba](https://user-images.githubusercontent.com/15865085/83310336-abc4d480-a1d9-11ea-9c66-f343682e2f7b.jpg)
